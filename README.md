@@ -26,5 +26,5 @@
   
   
 <h3> 📈 &nbsp;Моя статистика </h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=melysx&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melysx&theme=dark&langs_count=10&layout=compact&hide_border=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=temiis&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temiis&theme=dark&langs_count=10&layout=compact&hide_border=true"/>
