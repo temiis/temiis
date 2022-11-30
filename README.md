@@ -4,9 +4,7 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
